@@ -39,7 +39,7 @@ Developed by **MindBLOWN Productions** and vibe-coded with **Gemini** 🤖✨
 ### BUILDING FROM SOURCE
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/UNION.git
+   git clone https://github.com/MindBLOWProductions/UNION.git
    cd UNION
    ```
 2. Open in Android Studio:
