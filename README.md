@@ -1,82 +1,77 @@
-# UNION 🚀
+UNION 🚀
 
-> **One App. Infinite Possibilities.**  
-> An all-in-one entertainment and utility hub built for seamless content consumption—no sign-ups, no tracking, and no accounts required.
+One App. Infinite Possibilities.
 
-Developed by **MindBLOWN Productions and vibe-coded with Gemini**
+An all-in-one entertainment and utility hub built for seamless content consumption—no sign-ups, no tracking, and no accounts required.
 
----
+Developed by MindBLOWN Productions and vibe-coded with Gemini 🤖✨
 
-## 📌 Overview
+📌 Overview
+UNION is designed to simplify your digital routine by aggregating essential everyday media into a single, high-performance Android application. Built using modern Android development practices (Kotlin, Jetpack Compose, Media3/ExoPlayer, and Material 3), UNION eliminates the hassle of managing dozens of standalone apps for entertainment and information.
 
-**UNION** is designed to simplify your digital routine by aggregating essential everyday media into a single, high-performance Android application. Built using modern Android development practices (Kotlin, Jetpack Compose, and Material 3), UNION eliminates the hassle of managing dozens of standalone apps for entertainment and information.
+✨ Features
+📺 TV Hub
 
----
+Stream live IPTV channels and local MP4 videos powered by ExoPlayer with auto-hiding edge-to-edge desktop controls and smooth aspect ratio scaling.
 
-## ✨ Features
+🎮 Game Zone
 
-- 📺 **TV Hub**  
-  Stream live IPTV channels and video streams powered by ExoPlayer with minimal buffering.
+Play native arcade mini-games right inside the app, featuring Snake (with wall-collision game over mechanics), Tic Tac Toe, and Minesweeper.
 
-- 🎮 **Game Zone**  
-  Play lightweight, instant-play HTML5 games right inside the app without extra downloads.
+📰 News Feed
 
-- 📰 **News Feed**  
-  Stay up to date with real-time news headlines pulled directly from top global RSS feeds (World, Tech, Sports, Entertainment) with in-app Chrome Custom Tabs.
+Stay up to date with real-time news headlines pulled directly from top global RSS feeds (World, Tech, Sports, Entertainment) paired with instant push notifications and Chrome Custom Tabs.
 
-- 🎵 **Music & Audio**  
-  Listen to local audio files or streamed online radio directly through an intuitive built-in player.
+🎵 Music & Audio
 
-- ⚙️ **Customizable Settings**  
-  Configure your preferences and enjoy a private, frictionless app experience with zero mandatory user registration.
+Enjoy audio streams and background soundscapes through an intuitive built-in interface.
 
+⚙️ Customizable Settings & Auto Theme
 
+Configure storage caches, manage playback preferences, and enjoy a private, frictionless experience with seamless Light, Dark, and Auto (System Default) theme scheduling.
 
-## 🚀 Getting Started
+🚀 Getting Started
+Prerequisites
+Android Studio: Jellyfish / Koala or newer recommended
 
-### Prerequisites
+JDK: Version 17 or higher
 
-- **Android Studio:** Jellyfish / Koala or newer recommended
-- **JDK:** Version 17 or higher
-- **Minimum SDK:** API 24 (Android 7.0)
-- **Target SDK:** API 34+ (Android 14+)
+Minimum SDK: API 24 (Android 7.0)
 
-### Building from Source
+Target SDK: API 34+ (Android 14+)
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/UNION.git
-   cd UNION
-   ```
+Building from Source
+Clone the repository:
 
-2. **Open in Android Studio:**
-   * Open Android Studio, click **File > Open**, and select the project folder.
+Bash
+git clone https://github.com/YourUsername/UNION.git
+cd UNION
+Open in Android Studio:
 
-3. **Sync Gradle & Run:**
-   * Allow Gradle to download dependencies automatically.
-   * Select an emulator or physical Android device and click **Run (Shift + F10)**.
+Open Android Studio, click File > Open, and select the project folder.
 
----
+Sync Gradle & Run:
 
-## 🤝 Contributing
+Allow Gradle to download dependencies automatically.
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](../../issues) if you want to report a bug or suggest a new feature.
+Select an emulator or physical Android device and click Run (Shift + F10).
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
-3. Commit your Changes (`git commit -m 'Add NewFeature'`)
-4. Push to the Branch (`git push origin feature/NewFeature`)
-5. Open a Pull Request
+🤝 Contributing
+Contributions, issues, and feature requests are welcome!
 
----
+Feel free to check out the issues page if you want to report a bug or suggest a new feature.
 
-## 📄 License
+Fork the Project
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Create your Feature Branch (git checkout -b feature/NewFeature)
 
----
+Commit your Changes (git commit -m 'Add NewFeature')
 
-<p align="center">
-  Made with ❤️ by <b>MindBLOWN Productions</b>
-</p>
+Push to the Branch (git push origin feature/NewFeature)
+
+Open a Pull Request
+
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+Made with ❤️ by MindBLOWN Productions & Gemini
