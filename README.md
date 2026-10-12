@@ -3,7 +3,7 @@
 > **One App. Infinite Possibilities.**  
 > An all-in-one entertainment and utility hub built for seamless content consumption—no sign-ups, no tracking, and no accounts required.
 
-Developed by **MindBLOWN Productions**
+Developed by **MindBLOWN Productions and vibe-coded with Gemini**
 
 ---
 
