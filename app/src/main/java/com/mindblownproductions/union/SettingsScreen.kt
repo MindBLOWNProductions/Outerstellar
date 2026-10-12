@@ -164,7 +164,7 @@ fun SettingsScreen(
         }
 
         // ==========================================
-        // 4. ABOUT UNION SECTION
+        // 4. ABOUT Outerstellar SECTION
         // ==========================================
         item {
             Card(
@@ -172,7 +172,7 @@ fun SettingsScreen(
             ) {
                 Column(modifier = Modifier.padding(16.dp)) {
                     Text(
-                        text = "About UNION",
+                        text = "About Outerstellar",
                         style = MaterialTheme.typography.titleMedium,
                         fontWeight = FontWeight.Bold,
                         color = MaterialTheme.colorScheme.primary
@@ -183,7 +183,7 @@ fun SettingsScreen(
                         Icon(Icons.Default.Info, contentDescription = null)
                         Spacer(modifier = Modifier.width(12.dp))
                         Column {
-                            Text("UNION Platform v1.0", fontWeight = FontWeight.Bold)
+                            Text("Outerstellar Platform v1.01", fontWeight = FontWeight.Bold)
                             Text("Android-exclusive immersive media & arcade suite", style = MaterialTheme.typography.bodySmall)
                         }
                     }
@@ -197,7 +197,7 @@ fun SettingsScreen(
         AlertDialog(
             onDismissRequest = { showClearCacheDialog = false },
             title = { Text("Clear Local Videos?") },
-            text = { Text("This will delete all imported local MP4 files stored inside UNION.") },
+            text = { Text("This will delete all imported local MP4 files stored inside Outerstellar.") },
             confirmButton = {
                 TextButton(
                     onClick = {
