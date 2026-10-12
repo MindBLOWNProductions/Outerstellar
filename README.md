@@ -30,26 +30,7 @@ Developed by **MindBLOWN Productions**
 - ⚙️ **Customizable Settings**  
   Configure your preferences and enjoy a private, frictionless app experience with zero mandatory user registration.
 
----
 
-## 🛠️ Tech Stack & Libraries
-
-- **Language:** [Kotlin](https://kotlinlang.org/)
-- **UI Framework:** [Jetpack Compose](https://developer.android.com/jetpack/compose) (Material 3)
-- **Architecture:** Single Activity pattern with Modular Screens
-- **In-App Web Navigation:** [AndroidX Browser (Chrome Custom Tabs)](https://developer.android.com/jetpack/androidx/releases/browser)
-- **Media Playback:** [ExoPlayer (Media3)](https://developer.android.com/media/media3) *(Coming Soon)*
-- **Data Parsing:** `XmlPullParser` for light, fast RSS ingestion
-
----
-
-## 📱 Screenshots
-
-| Home Screen | TV Hub | News Section |
-| :---: | :---: | :---: |
-| *(Add Screenshot)* | *(Add Screenshot)* | *(Add Screenshot)* |
-
----
 
 ## 🚀 Getting Started
 
