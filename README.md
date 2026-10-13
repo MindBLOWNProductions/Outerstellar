@@ -39,8 +39,8 @@ Developed by **MindBLOWN Productions** and vibe-coded with **Gemini** 🤖✨
 ### Building from Source
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/UNION.git
-   cd UNION
+   git clone https://github.com/MindBLOWNProductions/Outerstellar.git
+   cd Outerstellar
    ```
 2. **Open in Android Studio:**
    * Open Android Studio, click **File > Open**, and select the project directory.
